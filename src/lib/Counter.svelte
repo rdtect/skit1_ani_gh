@@ -9,10 +9,10 @@
 
 <style>
 
-    h1{
+    /* h1{
         color: red;
-    }
-
+    } */
+/* 
     button{
         background-color: blue;
         color: white;
@@ -24,9 +24,9 @@
         font-size: 20px;
         width: 100px;
 
-    }
+    } */
 
-    button:hover{
+    /* button:hover{
         background-color: green;
-    }
+    } */
 </style>
