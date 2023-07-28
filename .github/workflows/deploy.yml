@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/skit1_ani_ghp'
+          BASE_PATH: '/skit1_ani_gh'
         run: |
           pnpm run build
           touch build/.nojekyll
